@@ -1,33 +1,40 @@
 class Solution {
- public:
-  bool areSentencesSimilar(string sentence1, string sentence2) {
-    if (sentence1.length() == sentence2.length())
-      return sentence1 == sentence2;
+public:
+    bool areSentencesSimilar(string s1, string s2) {
+       if(s1.length() < s2.length()){
+        swap(s1,s2);
+       } 
 
-    vector<string> words1 = split(sentence1);
-    vector<string> words2 = split(sentence2);
-    const int m = words1.size();
-    const int n = words2.size();
-    if (m > n)
-      return areSentencesSimilar(sentence2, sentence1);
+       vector<string> vec1,vec2;
+       stringstream ss1(s1);
+       string token;
 
-    int i = 0;  // words1's index
-    while (i < m && words1[i] == words2[i])
-      ++i;
-    while (i < m && words1[i] == words2[i + n - m])
-      ++i;
+       while(ss1 >> token){
+        vec1.push_back(token);
+       }
 
-    return i == m;
-  }
+       stringstream ss2(s2);
+       while(ss2 >> token){
+        vec2.push_back(token);
+       }
 
- private:
-  vector<string> split(const string& sentence) {
-    vector<string> words;
-    istringstream iss(sentence);
+       int i=0,j=vec1.size()-1;
+       int k=0,l=vec2.size()-1;
 
-    for (string s; iss >> s;)
-      words.push_back(s);
+       while(i<vec1.size() && k<vec2.size() && vec1[i]==vec2[k]){
+        i++;
+        k++;
+       }
+       while(l >=k  && vec1[j]==vec2[l]){
+        j--;
+        l--;
+       }
 
-    return words;
-  }
+       if(l<k){
+        return true;
+       }
+       else{
+        return false;
+       }
+    }
 };
