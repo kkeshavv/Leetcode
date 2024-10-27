@@ -40,6 +40,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1923-sentence-similarity-iii](https://github.com/kkeshavv/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kkeshavv/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -142,4 +143,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
