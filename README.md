@@ -31,6 +31,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/kkeshavv/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kkeshavv/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2580-circular-sentence](https://github.com/kkeshavv/Leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kkeshavv/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/kkeshavv/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
