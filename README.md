@@ -128,6 +128,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkeshavv/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkeshavv/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/kkeshavv/Leetcode/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
 | ------- |
