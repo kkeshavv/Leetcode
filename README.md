@@ -15,6 +15,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/kkeshavv/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kkeshavv/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -51,6 +52,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/kkeshavv/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -76,6 +78,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kkeshavv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/kkeshavv/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kkeshavv/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kkeshavv/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -100,6 +103,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -197,6 +201,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kkeshavv/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
