@@ -45,6 +45,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kkeshavv/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kkeshavv/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kkeshavv/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkeshavv/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kkeshavv/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kkeshavv/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
 | ------- |
