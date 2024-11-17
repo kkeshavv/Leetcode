@@ -159,6 +159,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/kkeshavv/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kkeshavv/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -245,5 +246,6 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
