@@ -159,6 +159,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/kkeshavv/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kkeshavv/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -241,4 +242,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
