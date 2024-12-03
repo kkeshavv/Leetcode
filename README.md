@@ -21,6 +21,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kkeshavv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -148,6 +149,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -294,6 +296,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kkeshavv/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -319,4 +322,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/kkeshavv/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
