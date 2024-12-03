@@ -10,48 +10,47 @@
  */
 class Solution {
 public:
-    // Function to merge two sorted linked lists
-    ListNode* merge(ListNode* l1, ListNode* l2) {
-        if (!l1) return l2;
-        if (!l2) return l1;
 
-        if (l1->val < l2->val) {
-            l1->next = merge(l1->next, l2);
+    ListNode*merge(ListNode*l1,ListNode*l2){
+        if(!l1) return l2;
+        if(!l2) return l1;
+
+        if(l1->val < l2->val){
+            l1->next=merge(l1->next,l2);
             return l1;
-        } else {
-            l2->next = merge(l1, l2->next);
+        }
+        else{
+            l2->next=merge(l1,l2->next);
             return l2;
         }
     }
 
-    // Function to find the middle node of the list
-    ListNode* findMiddle(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head->next;
+    ListNode* findmiddle(ListNode*head){
+        ListNode*slow=head; 
+        ListNode*fast=slow->next;
 
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-
-        return slow;
+        return slow; 
     }
 
-    // Merge Sort for Linked List
+    
     ListNode* sortList(ListNode* head) {
         if (!head || !head->next) return head;
 
-        // Step 1: Divide the list into two halves
-        ListNode* middle = findMiddle(head);
-        ListNode* left = head;
-        ListNode* right = middle->next;
-        middle->next = NULL;
+        ListNode* middle = findmiddle(head);
+        ListNode*lefthead=head;
+        ListNode*righthead=middle->next;
+        middle->next=NULL;
 
-        // Step 2: Recursively sort each half
-        left = sortList(left);
-        right = sortList(right);
+        lefthead=sortList(lefthead);
+        righthead=sortList(righthead);
 
-        // Step 3: Merge the sorted halves
-        return merge(left, right);
+       return merge(lefthead,righthead);
+
+
+
     }
-};
+}; 
