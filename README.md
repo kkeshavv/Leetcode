@@ -170,6 +170,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kkeshavv/Leetcode/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/kkeshavv/Leetcode/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkeshavv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2716-prime-subtraction-operation](https://github.com/kkeshavv/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -194,6 +195,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kkeshavv/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kkeshavv/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -295,6 +297,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kkeshavv/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kkeshavv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kkeshavv/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kkeshavv/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
