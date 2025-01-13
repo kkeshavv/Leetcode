@@ -21,6 +21,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kkeshavv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/kkeshavv/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/kkeshavv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
@@ -40,6 +41,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kkeshavv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/kkeshavv/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kkeshavv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
