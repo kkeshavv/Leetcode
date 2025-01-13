@@ -177,6 +177,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0007-reverse-integer](https://github.com/kkeshavv/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kkeshavv/Leetcode/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/kkeshavv/Leetcode/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkeshavv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2716-prime-subtraction-operation](https://github.com/kkeshavv/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
@@ -206,6 +207,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/kkeshavv/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kkeshavv/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -247,6 +249,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -346,4 +349,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
