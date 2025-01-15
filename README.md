@@ -20,6 +20,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kkeshavv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/kkeshavv/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/kkeshavv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -72,6 +73,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
