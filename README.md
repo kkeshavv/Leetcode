@@ -26,6 +26,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kkeshavv/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -72,6 +73,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -177,6 +179,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0002-add-two-numbers](https://github.com/kkeshavv/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kkeshavv/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kkeshavv/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/kkeshavv/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkeshavv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
