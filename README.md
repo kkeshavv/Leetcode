@@ -78,6 +78,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
