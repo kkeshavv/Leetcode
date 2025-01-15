@@ -8,6 +8,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kkeshavv/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -78,6 +79,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/kkeshavv/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -166,6 +168,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -186,6 +189,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0007-reverse-integer](https://github.com/kkeshavv/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kkeshavv/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/kkeshavv/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkeshavv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -199,6 +203,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kkeshavv/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkeshavv/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -281,6 +286,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
