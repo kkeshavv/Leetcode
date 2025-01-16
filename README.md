@@ -9,6 +9,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0141-linked-list-cycle](https://github.com/kkeshavv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kkeshavv/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -82,6 +83,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/kkeshavv/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
@@ -173,6 +175,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -307,6 +310,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkeshavv/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Number Theory
 |  |
@@ -367,6 +371,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
