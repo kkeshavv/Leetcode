@@ -94,6 +94,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -302,6 +303,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
