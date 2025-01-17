@@ -11,6 +11,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0160-intersection-of-two-linked-lists](https://github.com/kkeshavv/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -89,6 +90,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -188,6 +190,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
