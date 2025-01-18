@@ -82,6 +82,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0001-two-sum](https://github.com/kkeshavv/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/kkeshavv/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkeshavv/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -302,6 +303,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kkeshavv/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
