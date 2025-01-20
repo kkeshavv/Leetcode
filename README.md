@@ -51,6 +51,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kkeshavv/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kkeshavv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kkeshavv/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
@@ -290,6 +291,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kkeshavv/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
