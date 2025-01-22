@@ -108,6 +108,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kkeshavv/Leetcode/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -213,6 +214,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kkeshavv/Leetcode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
