@@ -1,18 +1,29 @@
+// binary search using recursion 
+
 class Solution {
 public:
-    int bs(vector<int>& nums,int low,int high, int target){
-       if (low>high) return -1;
-        int mid=(low+high)/2;
-        if(nums[mid]==target) return mid;  
-        else if(nums[mid]<target) return bs(nums,mid+1,high,target);
-        else return bs(nums,low,mid-1,target);
+    int helper(vector<int>& arr, int target,int low,int high){
+        if (low > high) {
+            return -1; // Target not found
+        }
+        int mid=(low+high)/2; 
+        if(arr[mid]==target){
+            return mid; 
+        }
+        else if(arr[mid]<target){
+            return helper(arr,target,mid+1,high);
+        }
+        else if(arr[mid]>target){
+            return helper(arr,target,low,mid-1);
+        }
+        else{
+            return -1; 
+        }
 
     }
-    int search(vector<int>& nums, int target) {
-       int low=nums[0];
-       int high=nums.size()-1; 
-    //    int mid=(low+high)/2;
-
-      return bs(nums,0,nums.size()-1,target); 
-    }
-};
+    int search(vector<int>& arr, int target) {
+         int low=0;
+        int high=arr.size()-1; 
+        return helper(arr,target,low,high);
+    }  
+}; 
