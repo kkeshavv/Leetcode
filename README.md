@@ -76,6 +76,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kkeshavv/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/kkeshavv/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/kkeshavv/Leetcode/tree/master/3451-string-compression-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/kkeshavv/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0090-subsets-ii](https://github.com/kkeshavv/Leetcode/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/kkeshavv/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [3291-find-if-array-can-be-sorted](https://github.com/kkeshavv/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kkeshavv/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/kkeshavv/Leetcode/tree/master/3394-minimum-array-end) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/kkeshavv/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
 | ------- |
