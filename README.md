@@ -234,6 +234,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0009-palindrome-number](https://github.com/kkeshavv/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kkeshavv/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kkeshavv/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/kkeshavv/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
@@ -256,6 +257,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0078-subsets](https://github.com/kkeshavv/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kkeshavv/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kkeshavv/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kkeshavv/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -276,6 +278,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0025-reverse-nodes-in-k-group](https://github.com/kkeshavv/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/kkeshavv/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kkeshavv/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/kkeshavv/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
