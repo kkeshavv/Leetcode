@@ -53,6 +53,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kkeshavv/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kkeshavv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kkeshavv/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kkeshavv/Leetcode/tree/master/0242-valid-anagram) |
@@ -242,6 +243,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kkeshavv/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kkeshavv/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kkeshavv/Leetcode/tree/master/0090-subsets-ii) |
@@ -318,6 +320,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkeshavv/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
