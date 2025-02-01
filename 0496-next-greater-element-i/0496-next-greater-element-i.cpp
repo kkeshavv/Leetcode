@@ -1,36 +1,26 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> nextGreater;
-        stack<int> st;
-        
-        // Step 1: Process nums2 from right to left
-        for (int i = nums2.size() - 1; i >= 0; i--) {
-            int num = nums2[i];
-            
-            // Maintain a monotonic decreasing stack
-            while (!st.empty() && st.top() <= num) {
-                st.pop();  // Remove smaller elements
+       unordered_map<int, int> mpp;
+        int n=nums2.size();
+        stack<int>st;
+        vector<int>ans;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty()&&st.top()<=nums2[i]){
+                st.pop();
             }
-            
-            // If stack is not empty, top element is the next greater
-            if (st.empty()) {
-                nextGreater[num] = -1;
-            } else {
-                nextGreater[num] = st.top();
+            if(st.empty()){
+                mpp[nums2[i]] = -1;
             }
-
-            
-            // Push current element to stack
-            st.push(num);
+            else{
+                // ans.push_back(st.top());
+                mpp[nums2[i]] = st.top();
+            }
+            st.push(nums2[i]);
         }
-        
-        // Step 2: Retrieve results for nums1 from the hash map
-        vector<int> result;
-        for (int num : nums1) {
-            result.push_back(nextGreater[num]);
+        for (int i = 0; i < nums1.size(); i++) {
+            ans.push_back(mpp[nums1[i]]);
         }
-        
-        return result;
+        return ans;
     }
 };
