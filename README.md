@@ -13,6 +13,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kkeshavv/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -112,6 +113,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kkeshavv/Leetcode/tree/master/0724-find-pivot-index) |
@@ -159,6 +161,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/kkeshavv/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kkeshavv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -192,6 +195,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kkeshavv/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/kkeshavv/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
