@@ -118,6 +118,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0540-single-element-in-a-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kkeshavv/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/kkeshavv/Leetcode/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/kkeshavv/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -165,6 +166,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0234-palindrome-linked-list](https://github.com/kkeshavv/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kkeshavv/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kkeshavv/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkeshavv/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kkeshavv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -178,6 +180,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kkeshavv/Leetcode/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kkeshavv/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kkeshavv/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kkeshavv/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
