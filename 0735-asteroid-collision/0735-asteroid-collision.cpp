@@ -12,7 +12,7 @@ public:
                while (!st.empty() && st.top() > 0 && arr[i] < 0){
                     if(st.top() < -arr[i]){
                         st.pop();
-                        continue;
+                        // continue;
                     }
                     else if(st.top()== -arr[i]){
                         st.pop();
