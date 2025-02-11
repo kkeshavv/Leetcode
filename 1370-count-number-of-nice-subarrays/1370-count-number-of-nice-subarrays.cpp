@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int helper(vector<int>& arr, int k) {
-        if (k < 0) return 0;
+     int helper(vector<int>& arr, int goal) {
+        if (goal < 0) return 0;
         int l = 0, r = 0, cnt = 0;
-        int oddCount = 0;
+        int sum = 0;
 
         while (r < arr.size()) {
-            // Count the odd numbers
-            if (arr[r] % 2 != 0) oddCount++;
+            sum += arr[r]%2;
 
-            // Move the left pointer if there are more than k odd numbers
-            while (oddCount > k) {
-                if (arr[l] % 2 != 0) oddCount--;
+            while (sum > goal) {
+                sum -= arr[l]%2;
                 l++;
             }
 
-            // Add the number of subarrays that end at r with exactly k odd numbers
             cnt += r - l + 1;
             r++;
         }
