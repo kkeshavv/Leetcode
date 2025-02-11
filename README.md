@@ -17,6 +17,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/kkeshavv/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kkeshavv/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -88,6 +89,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0003-longest-substring-without-repeating-characters](https://github.com/kkeshavv/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kkeshavv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/kkeshavv/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/kkeshavv/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kkeshavv/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kkeshavv/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -126,6 +128,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0792-binary-search](https://github.com/kkeshavv/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkeshavv/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/kkeshavv/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/kkeshavv/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -242,6 +245,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0560-subarray-sum-equals-k](https://github.com/kkeshavv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kkeshavv/Leetcode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/kkeshavv/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kkeshavv/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
