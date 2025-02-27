@@ -6,28 +6,21 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-#include<map>
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-    if(head==NULL || head->next==NULL){
-        return false;
-    }
-    map<ListNode*,bool>visited;
+        ListNode*slow=head;
+        ListNode*fast=head;
+        bool ans=false;
+        while(fast!=NULL && fast->next != NULL){
+            slow=slow->next;
+            fast=fast->next->next;
 
-    ListNode*temp=head;
-
-    while(temp != NULL){
-        if(visited[temp]==true){ 
-            return true;
+            if(slow==fast){
+                ans=true;
+                break;
+            }
         }
-        else{
-            visited[temp]=true;
-            temp=temp->next;
-        }
-        
-    }
-
-     return false;   
+        return ans;
     }
 };
