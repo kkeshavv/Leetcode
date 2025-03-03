@@ -15,6 +15,11 @@ public:
     }
 
     bool isBalanced(TreeNode* root) {
-        return checkHeight(root) != -1; // If -1 is returned, the tree is unbalanced
+        int ans=checkHeight(root);
+        if(ans == -1){
+            return false;
+        }
+        return true;
+
     }
 };
