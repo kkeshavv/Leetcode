@@ -12,6 +12,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0142-linked-list-cycle-ii](https://github.com/kkeshavv/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kkeshavv/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kkeshavv/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kkeshavv/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/kkeshavv/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -124,6 +125,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0162-find-peak-element](https://github.com/kkeshavv/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kkeshavv/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kkeshavv/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kkeshavv/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kkeshavv/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -245,6 +247,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kkeshavv/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kkeshavv/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kkeshavv/Leetcode/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
