@@ -28,6 +28,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kkeshavv/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkeshavv/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kkeshavv/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkeshavv/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kkeshavv/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkeshavv/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kkeshavv/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/kkeshavv/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -255,6 +257,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkeshavv/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkeshavv/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkeshavv/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
@@ -284,6 +287,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1370-count-number-of-nice-subarrays](https://github.com/kkeshavv/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkeshavv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/kkeshavv/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/kkeshavv/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
@@ -294,6 +298,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0090-subsets-ii](https://github.com/kkeshavv/Leetcode/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kkeshavv/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/kkeshavv/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -400,6 +405,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kkeshavv/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkeshavv/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kkeshavv/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -520,4 +526,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkeshavv/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
