@@ -32,6 +32,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kkeshavv/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kkeshavv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kkeshavv/Leetcode/tree/master/0031-next-permutation) |
@@ -109,6 +110,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kkeshavv/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/kkeshavv/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kkeshavv/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -249,6 +251,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kkeshavv/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
