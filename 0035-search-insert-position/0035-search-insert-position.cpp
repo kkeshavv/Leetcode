@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                return mid; // Target found
-            } else if (nums[mid] < target) {
-                low = mid + 1; // Search in the right half
-            } else {
-                high = mid - 1; // Search in the left half
+    int searchInsert(vector<int>& arr, int target) {
+        int n=arr.size();
+        int l=0;
+        int r=n-1;
+        while(l<=r){
+            int mid=(l+r)/2;
+            if(arr[mid]==target){
+                return mid;
+            }
+            else if(arr[mid]<target){
+                l=mid+1;
+            }
+            else{
+                r=mid-1;
             }
         }
-
-        // If target is not found, `low` will be the insertion point
-        return low;
+       return l; 
     }
 };
