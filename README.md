@@ -351,6 +351,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0145-binary-tree-postorder-traversal](https://github.com/kkeshavv/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkeshavv/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kkeshavv/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kkeshavv/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kkeshavv/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -378,6 +379,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0145-binary-tree-postorder-traversal](https://github.com/kkeshavv/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkeshavv/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kkeshavv/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kkeshavv/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kkeshavv/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -392,6 +394,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0145-binary-tree-postorder-traversal](https://github.com/kkeshavv/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkeshavv/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkeshavv/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kkeshavv/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kkeshavv/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kkeshavv/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -452,6 +455,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/kkeshavv/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/kkeshavv/Leetcode/tree/master/0812-rotate-string) |
 ## Counting
 |  |
@@ -538,4 +542,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kkeshavv/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
