@@ -128,6 +128,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkeshavv/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kkeshavv/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kkeshavv/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kkeshavv/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
@@ -413,6 +414,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0022-generate-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkeshavv/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkeshavv/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kkeshavv/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
