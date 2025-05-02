@@ -155,6 +155,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kkeshavv/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkeshavv/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kkeshavv/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkeshavv/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/kkeshavv/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -452,6 +453,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kkeshavv/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/kkeshavv/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kkeshavv/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kkeshavv/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
