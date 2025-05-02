@@ -3,7 +3,11 @@ public:
     int helper(vector<int>& nums,int val){
         int sum=0;
         for(auto it:nums){
-            sum += (it + val - 1) / val;
+            int res=it/val;
+            if(it%val !=0){
+                res++;
+            }
+            sum+=res;
         }
         return sum;
     }
