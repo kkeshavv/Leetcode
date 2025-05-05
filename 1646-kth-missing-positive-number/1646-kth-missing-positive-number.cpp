@@ -28,8 +28,8 @@ public:
         int l=0,r=n-1;
         while(l<=r){
             int mid=(l+r)/2;
-
-            if(arr[mid]-(mid+1)<k){
+            int missing=arr[mid]-(mid+1);
+            if(missing<k){
                 l=mid+1;
             }
             else{
