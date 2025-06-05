@@ -167,6 +167,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1923-sentence-similarity-iii](https://github.com/kkeshavv/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/kkeshavv/Leetcode/tree/master/1972-rotating-the-box) |
+| [2047-find-a-peak-element-ii](https://github.com/kkeshavv/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kkeshavv/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/kkeshavv/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kkeshavv/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -436,6 +437,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kkeshavv/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kkeshavv/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/kkeshavv/Leetcode/tree/master/1972-rotating-the-box) |
+| [2047-find-a-peak-element-ii](https://github.com/kkeshavv/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/kkeshavv/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kkeshavv/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kkeshavv/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -463,6 +465,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1646-kth-missing-positive-number](https://github.com/kkeshavv/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kkeshavv/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kkeshavv/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2047-find-a-peak-element-ii](https://github.com/kkeshavv/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kkeshavv/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kkeshavv/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkeshavv/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
