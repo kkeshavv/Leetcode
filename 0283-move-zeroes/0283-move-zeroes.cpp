@@ -5,8 +5,7 @@ public:
         int r=0;
         int n=arr.size();
         while(r<n){
-            if((arr[l]==0)&&arr[r]==0){
-                // l++;
+            if(arr[l]==0 && arr[r]==0){
                 r++;
             }
             else if(arr[l]!=0 && arr[r]!=0){
@@ -17,7 +16,6 @@ public:
                 swap(arr[l],arr[r]);
                 l++;
                 r++;
-
             }
             else if(arr[l]!=0 && arr[r]==0){
                 r++;
