@@ -118,6 +118,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kkeshavv/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kkeshavv/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kkeshavv/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kkeshavv/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kkeshavv/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kkeshavv/Leetcode/tree/master/0075-sort-colors) |
@@ -419,6 +420,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kkeshavv/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkeshavv/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkeshavv/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -539,6 +541,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kkeshavv/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/kkeshavv/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kkeshavv/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
